@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\obj\Debug\net6.0\CreateElizaResponse.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\obj\Debug\net6.0\CreateElizaResponse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\obj\Debug\net6.0\CreateElizaResponse.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\obj\Debug\net6.0\CreateElizaResponse.AssemblyInfo.cs
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\obj\Debug\net6.0\CreateElizaResponse.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\bin\Debug\net6.0\CreateElizaResponse.exe
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\bin\Debug\net6.0\CreateElizaResponse.deps.json
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\bin\Debug\net6.0\CreateElizaResponse.runtimeconfig.json
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\bin\Debug\net6.0\CreateElizaResponse.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\bin\Debug\net6.0\CreateElizaResponse.pdb
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\obj\Debug\net6.0\CreateElizaResponse.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\obj\Debug\net6.0\refint\CreateElizaResponse.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\obj\Debug\net6.0\CreateElizaResponse.pdb
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\obj\Debug\net6.0\CreateElizaResponse.genruntimeconfig.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Exam\Exam-Problem-1\CreateElizaResponse\obj\Debug\net6.0\ref\CreateElizaResponse.dll
